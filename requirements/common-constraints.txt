@@ -522,7 +522,7 @@ tqdm==4.67.1
     #   openai
     #   sentence-transformers
     #   transformers
-transformers==4.57.2
+transformers==5.0.0rc3
     # via sentence-transformers
 tree-sitter==0.25.2
     # via
